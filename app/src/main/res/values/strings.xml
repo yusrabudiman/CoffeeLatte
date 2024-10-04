@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">CoffeeLatte</string>
+    <string name="coffee_name">Nama Coffee</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="detail">detail</string>
+    <string name="person">Person</string>
+    <string name="email">a172b4ky4575@bangkit.academy</string>
+    <string name="name">Yusra Budiman Hasibuan</string>
+    <string name="coffee_image_description">coffee image description</string>
+    <string name="share">Bagikan</string>
+
+    <string-array name="data_name">
+        <item>Espresso Coffee</item>
+        <item>Americano Coffee</item>
+        <item>Cappuccino</item>
+        <item>Latte Coffee</item>
+        <item>Mocca Espresso</item>
+        <item>Flat White Latte</item>
+        <item>Caramel Macchiato</item>
+        <item>Affogato</item>
+        <item>Cortado</item>
+        <item>Irish Coffee</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Dengan warna gelap yang pekat dan tekstur yang kaya, espresso disajikan dalam cangkir kecil berwarna hitam yang menonjolkan esensi kopi tanpa embel-embel. Espresso adalah dasar dari berbagai minuman kopi, dan rasa kuatnya memperlihatkan karakter sejati biji kopi yang dipanggang dengan sempurna. Minuman ini cocok bagi mereka yang menikmati kekuatan rasa dalam satu tegukan kecil. harga untuk pembelian espresso coffee Rp 30.000</item>
+        <item>Campuran espresso dengan air panas menghasilkan Americano yang disajikan dalam mug putih, uapnya yang mengepul mengundang. Dengan rasa yang lebih ringan daripada espresso, Americano memberikan pengalaman menikmati kopi tanpa intensitas yang berlebihan, namun tetap memiliki aroma yang tajam dan kaya. Minuman ini sangat cocok untuk dinikmati saat santai, terutama bagi pecinta kopi dengan preferensi cita rasa lebih halus. harga pembelian americano coffee Rp 35.000</item>
+        <item>Cappuccino menawarkan sensasi yang berbeda dengan lapisan busa susu yang tebal di atas espresso, dihiasi sedikit taburan cokelat. Disajikan dalam cangkir keramik, cappuccino menyuguhkan keseimbangan sempurna antara kekuatan espresso dan kelembutan susu panas. Rasanya yang harmonis menjadikannya favorit di pagi hari, terutama ketika dipasangkan dengan roti panggang atau croissant. harga pembelian Cappuccino coffee Rp 52.000</item>
+        <item>Latte adalah salah satu minuman kopi yang paling digemari, dengan tampilan seni latte art di atas permukaan susu panas. Disajikan dalam gelas tinggi, latte memiliki lebih banyak susu dibandingkan espresso, memberikan rasa creamy yang lembut dan menenangkan. Setiap teguknya membawa sensasi nyaman dan rasa yang tidak terlalu kuat, cocok untuk momen bersantai atau bekerja. harga pembelian Latte coffee Rp 27.000</item>
+        <item>Mocha adalah perpaduan nikmat antara espresso, cokelat, dan susu panas, disajikan dalam cangkir mewah. Dihiasi dengan whipped cream dan lelehan cokelat di atasnya, mocha memberikan rasa dekaden yang disukai oleh pecinta cokelat. Kombinasi manis dan pahit yang sempurna menjadikannya lebih dari sekadar minuman, tetapi juga sebagai camilan yang memanjakan. harga pembelian mocha coffee Rp 55.000</item>
+        <item>Flat white memiliki tekstur creamy dan rasa kopi yang seimbang, disajikan dalam cangkir putih minimalis. Minuman ini dibuat dengan sedikit susu panas dan lapisan busa yang sangat tipis, sehingga rasa kopi tetap dominan namun tidak terlalu kuat. Flat white sempurna bagi mereka yang menginginkan kelembutan susu namun tidak ingin menghilangkan karakter espresso yang khas. harga pembelian flat white coffee Rp 45.000</item>
+        <item>Macchiato adalah espresso dengan sedikit busa susu di atasnya, memberikan karakter yang lebih kuat dibandingkan cappuccino atau latte. Disajikan dengan tampilan yang sederhana namun berkelas, minuman ini menawarkan sensasi intensitas espresso dengan kelembutan sedikit susu. Ini adalah pilihan yang sempurna untuk pecinta kopi yang menyukai cita rasa pekat dengan sentuhan lembut. harga pembelian Macchiato coffee Rp 35.000</item>
+        <item>Affogato menggabungkan es krim vanila dengan espresso panas yang dituangkan di atasnya, menciptakan pengalaman menyenangkan antara minuman dan makanan penutup. Rasanya adalah perpaduan antara manis dan pahit, dengan es krim yang meleleh bersama espresso panas. Setiap sendok memberikan sensasi lembut es krim yang berpadu dengan kekuatan rasa kopi, menjadikannya hidangan penutup yang sempurna. harga pembelian Affogato coffee Rp 80.000 menjadi kan kopi tersebut sebagai kopi termahal karena memiliki vanila ice cream yang memukau untuk penggunanya</item>
+        <item>Disajikan dalam gelas pendek, cortado adalah perpaduan sempurna antara espresso dan susu panas dalam perbandingan yang sama. Minuman ini dirancang untuk menyeimbangkan keasaman dan kepahitan kopi dengan kelembutan susu. Cortado cocok bagi mereka yang ingin merasakan rasa asli espresso tetapi dengan sedikit kehalusan tambahan. harga pembelian kopi tersebut sekitaran Rp 40.000</item>
+        <item>Irish coffee merupakan kombinasi kopi hitam dengan wiski Irlandia dan gula, disajikan dalam gelas bening dengan whipped cream di atasnya. Aroma kopi yang tajam berpadu dengan rasa hangat dari wiski, ditambah kelembutan whipped cream, menciptakan minuman yang hangat dan penuh karakter. Cocok dinikmati di saat cuaca dingin, minuman ini memberikan sentuhan unik dengan kombinasi rasa kopi dan alkohol yang menenangkan. untuk harga kopi nya sendiri sekitaran Rp 75.000</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/espresso_coffee</item>
+        <item>@drawable/americano_coffee</item>
+        <item>@drawable/cappuccino</item>
+        <item>@drawable/latte_coffee</item>
+        <item>@drawable/mocca_espresso</item>
+        <item>@drawable/flat_white_latte</item>
+        <item>@drawable/caramel_macchiato</item>
+        <item>@drawable/affogato</item>
+        <item>@drawable/cortado</item>
+        <item>@drawable/coffeeirish</item>
+
+    </integer-array>
+</resources>
